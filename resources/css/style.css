@@ -59,6 +59,7 @@ header .logo {
 header nav ul {
   display: flex;
   list-style: none;
+  align-items: center;
 }
 
 nav li {
@@ -90,11 +91,12 @@ header .button {
 }
 
 @media only screen and (max-width: 1024px) {
-  header .mobile .button {
+  header .desktop .button {
     padding: 0.1875rem 0.5rem;
     background-color: #9dc20b;
     line-height: 1.6;
     color: white;
+    display: block;
   }
 }
 
@@ -106,6 +108,14 @@ header .button {
   header .mobile {
     display: block;
     width: 100%;
+  }
+
+  header .mobile .button {
+    padding: 0.1875rem 0.5rem;
+    background-color: #9dc20b;
+    line-height: 1.6;
+    color: white;
+    display: block;
   }
 
   header .content {
@@ -200,6 +210,7 @@ header .button {
     background-color: transparent;
     border: none;
     padding: 0;
+    margin: 0;
   }
 
   #sign-up-cta .content {
