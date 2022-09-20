@@ -16,7 +16,7 @@ Student project for Codecademy Full Stack Path.
 
 - Follows design spec for desktop and mobile display and includes client's media assets (images and icons), thereby simulating a professional collaboration with a UX/UI designer
 
-- Boosted the accessibility report by a Lighthouse audit of the repaired web site from a dismal 56/100 for desktops and 56/100 for mobile devices to a much-improved 95/100 for desktops and 95/100 for mobile devices, without reconfiguring the given HTML or affecting the color prescribed by the design spec.
+- Boosted the accessibility report by a Lighthouse audit of the repaired web site from a dismal 56/100 for desktops and 56/100 for mobile devices to a much-improved 95/100 for desktops and 95/100 for mobile devices, without reconfiguring the given HTML or affecting the color prescribed by the design spec
 
 - Skilled use of Google Chrome's DevTools for debugging and prototyping changes in the browser
 
