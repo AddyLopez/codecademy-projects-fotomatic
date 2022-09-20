@@ -30,8 +30,9 @@ Student project for Codecademy Full Stack Path.
 
 ## Preview - Before and After
 
-Broken Website:
+- First image below is of the broken website, as I received it
+- Second image below is of the repaired website, after my interventions
+
 ![Fotomatic Broken Desktop Preview](resources/preview/fotomatic-broken-website-preview.png)
 
-Repaired Website:
 ![Fotomatic Desktop Preview](resources/preview/fotomatic-preview.png)
