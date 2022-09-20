@@ -6,7 +6,7 @@
 
 Student project for Codecademy Full Stack Path.
 
-**_Learning objective_**: To fix the layout and responsiveness of the broken website and reproduce the layout from the design spec provided. Since the HTML was already provided, this project specifically showcases skill in CSS and debugging.
+**_Learning objective_**: To fix the layout and responsiveness of the broken website and reproduce the layout from the design spec provided. Since the HTML was already provided, _this project specifically showcases skill in CSS and debugging_.
 
 ## Features
 
