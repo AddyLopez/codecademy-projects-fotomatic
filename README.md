@@ -33,6 +33,10 @@ Student project for Codecademy Full Stack Path.
 - First image below is of the broken website, as I received it
 - Second image below is of the repaired website, after my interventions
 
+---
+
 ![Fotomatic Broken Desktop Preview](resources/preview/fotomatic-broken-website-preview.png)
+
+---
 
 ![Fotomatic Desktop Preview](resources/preview/fotomatic-preview.png)
